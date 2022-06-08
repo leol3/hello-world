@@ -1,0 +1,3 @@
+[submodule "Blog_Album"]
+	path = Blog_Album
+	url = https://github.com/leol3/Blog_Album.git
